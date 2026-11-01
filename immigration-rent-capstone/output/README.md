@@ -1,0 +1,1 @@
+Folder for charts and graphs output.

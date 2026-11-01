@@ -1,0 +1,1 @@
+Place the four NHGIS CSV files here. See the main README for download instructions.
